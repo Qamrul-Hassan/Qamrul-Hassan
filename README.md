@@ -1,10 +1,8 @@
-![WEB DEVELOPER](https://x.com/Shajal1/header_photo)
-
 ### Hi there 👋, My name is Qamrul Hassan
 #### WEB DEVELOPER
+![WEB DEVELOPER](https://pbs.twimg.com/profile_banners/247298919/1724349046/600x200)
 
-
-Learning Web development. And very passionate about it.
+I am passionate web developer with a strong background in creating dynamic and responsive websites and applications. I specialize in front-end and back-end development, with expertise in HTML, CSS, JavaScript, and modern frameworks like React and Angular. My journey into coding began with a curiosity about how websites work, which quickly turned into a full-blown passion for building intuitive and user-friendly digital experiences.
 
 Skills: HTML / CSS/ TAILWIND 
 
