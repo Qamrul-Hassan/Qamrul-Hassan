@@ -1,5 +1,5 @@
-![WEB DEVELOPER](file:///C:/Users/sajal/OneDrive/Desktop/DALL%C2%B7E%202024-08-22%2023.27.43%20-%20A%20professional%20GitHub%20cover%20photo%20for%20a%20web%20developer.%20The%20design%20should%20include%20modern%20and%20clean%20elements,%20such%20as%20code%20snippets,%20a%20computer%20screen%20s.webp)
-## Hi there 👋
+![WEB DEVELOPER](https://x.com/Shajal1/header_photo)
+
 ### Hi there 👋, My name is Qamrul Hassan
 #### WEB DEVELOPER
 
