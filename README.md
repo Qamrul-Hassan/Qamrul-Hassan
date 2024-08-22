@@ -2,12 +2,12 @@
 
 ![WEB DEVELOPER](https://pbs.twimg.com/profile_banners/247298919/1724349046/600x200)
 
-I am passionate web developer with a strong background in creating dynamic and responsive websites and applications. I specialize in front-end and back-end development, with expertise in HTML, CSS, JavaScript, and modern frameworks like React and Angular. My journey into coding began with a curiosity about how websites work, which quickly turned into a full-blown passion for building intuitive and user-friendly digital experiences.
+I am passionate web developer with a strong background in creating dynamic and responsive websites. I am learning1 front-end and back-end development, now learning HTML, CSS, JavaScript, and modern frameworks like React . My journey into coding began with a curiosity about how websites work, which quickly turned into a full-blown passion for building intuitive and user-friendly digital experiences.
 
 Skills: HTML / CSS/ TAILWIND 
 
 - 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning HTML, CSS, BOOTSTRAP, TAILWIND 
+- 🌱 I’m currently learning HTML, CSS, BOOTSTRAP, TAILWIND, React
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Qamrul-Hassan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/qamrul-hassan-a9b0a231//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/qamrul.h.shajal)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://x.com/Shajal1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCKn1TUJM0ZT0g3CXtsP_LAg)  
