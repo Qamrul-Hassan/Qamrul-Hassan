@@ -2,7 +2,7 @@
 
 ![WEB DEVELOPER](https://pbs.twimg.com/profile_banners/247298919/1724349046/600x200)
 
-I am passionate web developer with a strong background in creating dynamic and responsive websites. I am learning1 front-end and back-end development, now learning HTML, CSS, JavaScript, and modern frameworks like React . My journey into coding began with a curiosity about how websites work, which quickly turned into a full-blown passion for building intuitive and user-friendly digital experiences.
+I am passionate web developer with a strong background in creating dynamic and responsive websites. I am learning1 front-end and back-end development, now learning HTML, CSS, Bootstrap, Tailwind JavaScript, and modern frameworks like React . My journey into coding began with a curiosity about how websites work, which quickly turned into a full-blown passion for building intuitive and user-friendly digital experiences.
 
 Skills: HTML / CSS/ TAILWIND 
 
