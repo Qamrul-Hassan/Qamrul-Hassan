@@ -58,6 +58,8 @@ When I'm not coding, you might find me exploring new tech gadgets or binge-watch
 
 [![OracleBrain's GitHub activity graph](https://github-readme-activity-graph.vercel.app)](https://github.com/OracleBrain)
 
+[![Ashutosh's GitHub activity graph](https://github-readme-activity-graph.vercel.app)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Qamrul-Hassan/contributions?format=svg&private=true)  
 
 ![GitHub metrics](https://metrics.lecoq.io/Qamrul-Hassan)  
