@@ -67,7 +67,14 @@ When I'm not coding, you'll find me exploring new tech gadgets or binge-watching
 
 ### 🏆 **GitHub Trophies**
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Qamrul-Hassan&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+### 🏆 **GitHub Trophies**
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Qamrul-Hassan&theme=radical" alt="GitHub Trophies" />
+  </a>
+</p>
+
 
 ---
 
