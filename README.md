@@ -2,12 +2,18 @@
 
 ![WEB DEVELOPER](https://pbs.twimg.com/profile_banners/247298919/1724349046/600x200)
 
-I am passionate web developer with a strong background in creating dynamic and responsive websites. I am learning1 front-end and back-end development, now learning HTML, CSS, Bootstrap, Tailwind JavaScript, and modern frameworks like React . My journey into coding began with a curiosity about how websites work, which quickly turned into a full-blown passion for building intuitive and user-friendly digital experiences.
+I'm a passionate beginner web developer currently learning HTML, CSS, Bootstrap, Tailwind, and JavaScript. My journey into web development is driven by a love for creating intuitive, user-friendly websites. I’m excited to share my projects as I learn and grow in this field.
 
-Skills: HTML / CSS/ TAILWIND 
+Skills: HTML / CSS/ TAILWIND /JS
 
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning HTML, CSS, BOOTSTRAP, TAILWIND, React
+- 🔭  What I'm Working On
+Building responsive websites using HTML, CSS, and Bootstrap.
+Experimenting with Tailwind for utility-first CSS design.
+Learning JavaScript to add interactivity to web pages.
+- 🌱 Mastering the fundamentals of HTML and CSS.
+Diving into responsive design with Bootstrap.
+Exploring the power of Tailwind for custom styles.
+Enhancing my JavaScript skills for dynamic content.
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Qamrul-Hassan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/qamrul-hassan-a9b0a231//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/qamrul.h.shajal)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://x.com/Shajal1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCKn1TUJM0ZT0g3CXtsP_LAg)  
