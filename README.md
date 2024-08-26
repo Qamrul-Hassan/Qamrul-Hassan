@@ -1,6 +1,5 @@
 # Hi there 👋, I'm Qamrul Hassan
-
- <p align="center"> ![Web Developer](https://pbs.twimg.com/profile_banners/247298919/1724349046/600x200) </p>
+                                                     ![Web Developer](https://pbs.twimg.com/profile_banners/247298919/1724349046/600x200) 
 
 
 I'm a passionate beginner web developer currently exploring the world of HTML, CSS, Bootstrap, Tailwind, and JavaScript. My journey into web development is driven by a love for creating intuitive, user-friendly websites. I'm excited to share my projects as I learn and grow in this field.
