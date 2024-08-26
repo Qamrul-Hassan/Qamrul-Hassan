@@ -1,55 +1,6 @@
 # Hi there 👋, I'm Qamrul Hassan
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GitHub Cover Photo</title>
-    <style>
-        body {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-            background-color: #f0f0f0;
-        }
-        .cover-photo {
-            width: 600px;
-            height: 200px;
-            position: relative;
-            background: linear-gradient(135deg, #ff6347, #ffcc33);
-            border: 5px solid #333;
-            box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
-        }
-        .cover-photo img {
-            width: 100%;
-            height: 100%;
-            object-fit: cover;
-            opacity: 0.8;
-        }
-        .overlay {
-            position: absolute;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            color: white;
-            font-size: 2em;
-            font-weight: bold;
-            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
-        }
-    </style>
-</head>
-<body>
-    <div class="cover-photo">
-        <img src="your-image-url.jpg" alt="Cover Photo">
-        <div class="overlay">Web Developer</div>
-    </div>
-</body>
+![Web Developer](https://pbs.twimg.com/profile_banners/247298919/1724349046/600x200)
 </html>
 
 I'm a passionate beginner web developer currently exploring the world of HTML, CSS, Bootstrap, Tailwind, and JavaScript. My journey into web development is driven by a love for creating intuitive, user-friendly websites. I'm excited to share my projects as I learn and grow in this field.
