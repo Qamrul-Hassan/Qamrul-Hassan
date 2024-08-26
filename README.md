@@ -6,14 +6,27 @@ I'm a passionate beginner web developer currently learning HTML, CSS, Bootstrap,
 
 Skills: HTML / CSS/ TAILWIND /JS
 
-- 🔭  What I'm Working On
-- Building responsive websites using HTML, CSS, and Bootstrap.
-- Experimenting with Tailwind for utility-first CSS design.
-- Learning JavaScript to add interactivity to web pages.
-- 🌱 Mastering the fundamentals of HTML and CSS.
-- Diving into responsive design with Bootstrap.
-- Exploring the power of Tailwind for custom styles.
--Enhancing my JavaScript skills for dynamic content.
+🔭 - What I'm Working On
+    - Building responsive websites using HTML, CSS, and Bootstrap.
+    - Experimenting with Tailwind for utility-first CSS design.
+    - Learning JavaScript to add interactivity to web pages.
+
+🌱 - Mastering the fundamentals of HTML and CSS.
+    - Diving into responsive design with Bootstrap.
+    - Exploring the power of Tailwind for custom styles.
+    -Enhancing my JavaScript skills for dynamic content.
+
+🤔 Goals
+    - Complete my first fully responsive website.
+    - Contribute to open-source projects.
+    - Continue learning new tools and frameworks in web development.
+
+📫 How to Reach Me
+    - LinkedIn - Let's connect and grow together!
+    - Twitter - Follow my journey as I learn web development.
+
+⚡ Fun Fact
+    When I'm not coding, you might find me exploring new tech gadgets or binge-watching the latest series!
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Qamrul-Hassan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/qamrul-hassan-a9b0a231//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/qamrul.h.shajal)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://x.com/Shajal1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCKn1TUJM0ZT0g3CXtsP_LAg)  
