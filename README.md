@@ -52,6 +52,8 @@ When I'm not coding, you might find me exploring new tech gadgets or binge-watch
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Qamrul-Hassan)](https://github.com/ryo-ma/github-profile-trophy)
 
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--llzvRQeS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://res.cloudinary.com/dlieqpdfd/image/upload/v1704616186/GitHub%2520Profile/github-stats-example_ndhxk3.png" alt="GitHub stats example" loading="lazy" width="800" height="249">
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Qamrul-Hassan)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Qamrul-Hassan&show_icons=true&count_private=true)  
