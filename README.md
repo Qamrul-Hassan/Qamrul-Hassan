@@ -58,7 +58,7 @@ When I'm not coding, you might find me exploring new tech gadgets or binge-watch
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Qamrul-Hassan/contributions?format=svg&private=true)  
 
-[![Qamrul's GitHub activity graph](https://github-readme-activity-graph.vercel.app)](https://github.com/Qamrul-Hassan/project-22/github-readme-activity-graph)
+[![Qamrul's GitHub activity graph](https://github-readme-activity-graph.vercel.app)](https://github.com/Qamrul-Hassan/project-22.git/github-readme-activity-graph)
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Qamrul-Hassan)  
 
