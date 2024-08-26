@@ -56,6 +56,8 @@ When I'm not coding, you might find me exploring new tech gadgets or binge-watch
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Qamrul-Hassan&show_icons=true&count_private=true)  
 
+![Activity](https://github.com/OracleBrain/OracleBrain.git)
+
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Qamrul-Hassan/contributions?format=svg&private=true)  
 
 ![GitHub metrics](https://metrics.lecoq.io/Qamrul-Hassan)  
