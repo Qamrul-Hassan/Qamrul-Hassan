@@ -57,9 +57,3 @@ I'm a passionate beginner web developer currently learning HTML, CSS, Bootstrap,
   <img src="https://github-profile-trophy.vercel.app/?username=Qamrul-Hassan&theme=radical&no-bg=true&no-frame=true&column=6&margin-w=15" alt="GitHub Trophies" />
 </p>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Qamrul-Hassan&theme=radical" alt="Qamrul-Hassan's GitHub Streaks" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qamrul-Hassan&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
-</p>
