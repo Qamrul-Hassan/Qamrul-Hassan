@@ -2,14 +2,14 @@
 
 ![WEB DEVELOPER](https://pbs.twimg.com/profile_banners/247298919/1724349046/600x200)
 
-I'm a passionate beginner web developer currently learning HTML, CSS, Bootstrap, Tailwind, and JavaScript. My journey into web development is driven by a love for creating intuitive, user-friendly websites. I’m excited to share my projects as I learn and grow in this field.
 
+
+I'm a passionate beginner web developer currently learning HTML, CSS, Bootstrap, Tailwind, and JavaScript. My journey into web development is driven by a love for creating intuitive, user-friendly websites. I’m excited to share my projects as I learn and grow in this field.
 Skills: HTML / CSS/ TAILWIND /JS
 
-# Hi there! 👋
+
 
 I'm a passionate beginner web developer currently learning HTML, CSS, Bootstrap, Tailwind, and JavaScript. My journey into web development is driven by a love for creating intuitive, user-friendly websites. I’m excited to share my projects as I learn and grow in this field.
-
 ## 🔭 What I'm Working On
 - Building responsive websites using HTML, CSS, and Bootstrap.
 - Experimenting with Tailwind for utility-first CSS design.
