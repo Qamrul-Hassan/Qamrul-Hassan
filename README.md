@@ -58,4 +58,14 @@ When I'm not coding, you might find me exploring new tech gadgets or binge-watch
  
 
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Qamrul-Hassan)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Qamrul-Hassan&show_icons=true&theme=radical&count_private=true&hide=stars" alt="Qamrul-Hassan's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Qamrul-Hassan&theme=radical" alt="Qamrul-Hassan's GitHub Streaks" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qamrul-Hassan&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
+</p>
