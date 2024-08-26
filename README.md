@@ -6,10 +6,10 @@ I'm a passionate beginner web developer currently learning HTML, CSS, Bootstrap,
 
 Skills: HTML / CSS/ TAILWIND /JS
 
-🔭 - What I'm Working On
-    - Building responsive websites using HTML, CSS, and Bootstrap.
-    - Experimenting with Tailwind for utility-first CSS design.
-    - Learning JavaScript to add interactivity to web pages.
+## 🔭 What I'm Working On
+- Building responsive websites using HTML, CSS, and Bootstrap.
+- Experimenting with Tailwind for utility-first CSS design.
+- Learning JavaScript to add interactivity to web pages.
 
 🌱 - Mastering the fundamentals of HTML and CSS.
     - Diving into responsive design with Bootstrap.
