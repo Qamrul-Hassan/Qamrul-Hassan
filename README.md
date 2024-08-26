@@ -67,7 +67,6 @@ When I'm not coding, you'll find me exploring new tech gadgets or binge-watching
 
 ### 🏆 **GitHub Trophies**
 
-### 🏆 **GitHub Trophies**
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
