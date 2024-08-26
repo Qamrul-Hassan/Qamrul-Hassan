@@ -11,7 +11,7 @@ I'm a passionate beginner web developer currently learning HTML, CSS, Bootstrap,
 
 ## 📊 Qamrul-Hassan's GitHub Stats & Activity
 
-><p align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Qamrul-Hassan&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&custom_title=Qamrul-Hassan's GitHub Stats" alt="Qamrul-Hassan's GitHub Stats" />
 </p>
 
