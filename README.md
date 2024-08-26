@@ -9,60 +9,54 @@ I'm a passionate beginner web developer currently learning HTML, CSS, Bootstrap,
 
 
 
+## 📊 Qamrul-Hassan's GitHub Stats
 
-## 🔭 What I'm Working On
-- Building responsive websites using HTML, CSS, and Bootstrap.
-- Experimenting with Tailwind for utility-first CSS design.
-- Learning JavaScript to add interactivity to web pages.
-
-## 🎓 My Learning Journey
-
-- **HTML/CSS:** Exploring the foundations of web development by creating static web pages with clean, semantic HTML and beautifully styled CSS.
-- **Bootstrap:** Building responsive and mobile-first designs with the powerful Bootstrap framework.
-- **Tailwind CSS:** Diving into utility-first CSS for rapid UI development.
-- **JavaScript:** Adding interactivity to web pages and learning the basics of DOM manipulation.
-
-## 🤔 Goals
-- Complete my first fully responsive website.
-- Contribute to open-source projects.
-- Continue learning new tools and frameworks in web development.
-
-## 📫 How to Reach Me
-- [LinkedIn](#) - Let's connect and grow together!
-- [Twitter](#) - Follow my journey as I learn web development.
-
-  ## 🏛️ Vault of Classics
-
-Here are some classic resources, tools, and projects that have inspired my learning journey:
-
-- **[Mozilla Developer Network (MDN)](https://developer.mozilla.org/en-US/):** The go-to resource for web standards and documentation.
-- **[W3Schools](https://www.w3schools.com/):** A fantastic starting point for beginners with interactive examples.
-- **[Bootstrap Documentation](https://getbootstrap.com/docs/):** Detailed and comprehensive documentation for Bootstrap.
-- **[Tailwind CSS Documentation](https://tailwindcss.com/docs):** Learn how to use utility-first CSS to build beautiful designs.
-- **[JavaScript.info](https://javascript.info/):** A comprehensive guide to modern JavaScript.
-
-
-## ⚡ Fun Fact
-When I'm not coding, you might find me exploring new tech gadgets or binge-watching the latest series!
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Qamrul-Hassan)         [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/qamrul-hassan-a9b0a231//)         [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/qamrul.h.shajal)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://x.com/Shajal1)          [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCKn1TUJM0ZT0g3CXtsP_LAg)  
-
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Qamrul-Hassan)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Qamrul-Hassan)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Qamrul-Hassan&show_icons=true&count_private=true)  
- 
-
-
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Qamrul-Hassan&show_icons=true&theme=radical&count_private=true&hide=stars" alt="Qamrul-Hassan's GitHub Stats" />
 </p>
 
-<p align="left">
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Qamrul-Hassan&theme=radical" alt="Qamrul-Hassan's GitHub Streaks" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qamrul-Hassan&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
+</p>
+
+## 🚀 More About Me
+
+- 🔭 I’m currently learning **HTML, CSS, Bootstrap, Tailwind, and JavaScript**
+- 🌱 I’m passionate about **Web Development** and **Responsive Design**
+- 💼 I’m looking for opportunities to **collaborate on web projects**
+- 🎯 My current focus is to **master front-end development** skills
+
+## 🛠️ Tools & Technologies
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=ffffff&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=ffffff&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000000&style=for-the-badge)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=ffffff&style=for-the-badge)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=ffffff&style=for-the-badge)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=ffffff&style=for-the-badge)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=ffffff&style=for-the-badge)
+
+## 💻 Workspace Setup
+
+- 💻 Editor: **Visual Studio Code**
+- 🖥️ OS: **Windows/Linux**
+- 🌐 Browser: **Google Chrome/Firefox**
+- 🎨 Design: **Figma/Adobe XD**
+
+## 📈 Contribution Graph
+
+[![Qamrul-Hassan's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Qamrul-Hassan&theme=github&bg_color=0d1117&color=79fe96&line=79fe96&point=79fe96)](https://github.com/Qamrul-Hassan)
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Qamrul-Hassan&theme=radical&no-bg=true&no-frame=true&column=6&margin-w=15" alt="GitHub Trophies" />
+</p>
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Qamrul-Hassan&theme=radical" alt="Qamrul-Hassan's GitHub Streaks" />
 </p>
 
