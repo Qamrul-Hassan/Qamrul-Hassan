@@ -1,43 +1,83 @@
-# Hi  👋, This is Qamrul Hassan
+# Hi there 👋, I'm Qamrul Hassan
 
-![WEB DEVELOPER](https://pbs.twimg.com/profile_banners/247298919/1724349046/600x200)
+![Web Developer](https://pbs.twimg.com/profile_banners/247298919/1724349046/600x200)
 
+I'm a passionate beginner web developer currently exploring the world of HTML, CSS, Bootstrap, Tailwind, and JavaScript. My journey into web development is driven by a love for creating intuitive, user-friendly websites. I'm excited to share my projects as I learn and grow in this field.
 
+---
 
-I'm a passionate beginner web developer currently learning HTML, CSS, Bootstrap, Tailwind, and JavaScript. My journey into web development is driven by a love for creating intuitive, user-friendly websites. I’m excited to share my projects as I learn and grow in this field.
-- Skills: HTML / CSS/ TAILWIND /JS
+### 🛠️ **Skills**
+- HTML / CSS / Tailwind / JavaScript
 
+---
 
+### 🔭 **What I'm Working On**
+- Building responsive websites using HTML, CSS, and Bootstrap.
+- Experimenting with Tailwind for utility-first CSS design.
+- Learning JavaScript to add interactivity to web pages.
 
-## 📊 Qamrul-Hassan's GitHub Stats & Activity
+---
+
+### 🎓 **Learning Journey**
+- **HTML/CSS:** Crafting clean, semantic HTML and beautiful CSS.
+- **Bootstrap:** Designing responsive, mobile-first websites with Bootstrap.
+- **Tailwind CSS:** Rapid UI development with utility-first CSS.
+- **JavaScript:** Adding dynamic features and enhancing user experience.
+
+---
+
+### 🎯 **Goals**
+- Complete my first fully responsive website.
+- Contribute to open-source projects.
+- Keep learning new tools and frameworks in web development.
+
+---
+
+### 📫 **Let's Connect**
+- [LinkedIn](https://www.linkedin.com/in/qamrul-hassan-a9b0a231/)
+- [Twitter](https://x.com/Shajal1)
+
+---
+
+### 🏛️ **Vault of Classics**
+
+Here are some classic resources that have inspired my learning journey:
+
+- **[MDN Web Docs](https://developer.mozilla.org/en-US/):** The go-to resource for web standards.
+- **[W3Schools](https://www.w3schools.com/):** A fantastic starting point with interactive examples.
+- **[Bootstrap Documentation](https://getbootstrap.com/docs/):** Comprehensive documentation for Bootstrap.
+- **[Tailwind CSS Documentation](https://tailwindcss.com/docs):** Learn utility-first CSS with Tailwind.
+- **[JavaScript.info](https://javascript.info/):** A comprehensive guide to modern JavaScript.
+
+---
+
+### ⚡ **Fun Fact**
+When I'm not coding, you'll find me exploring new tech gadgets or binge-watching the latest series!
+
+---
+
+### 🏆 **GitHub Trophies**
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Qamrul-Hassan&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+### 📊 **GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Qamrul-Hassan&show_icons=true&theme=radical&count_private=true&hide=stars" alt="Qamrul-Hassan's GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Qamrul-Hassan&theme=tokyonight" alt="Qamrul-Hassan's GitHub Streaks" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Qamrul-Hassan&show_icons=true&theme=radical&count_private=true" alt="Qamrul-Hassan's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qamrul-Hassan&layout=compact&theme=tokyonight&langs_count=8&hide=html" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Qamrul-Hassan&theme=radical" alt="Qamrul-Hassan's GitHub Streaks" />
 </p>
-
-## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Qamrul-Hassan&theme=darkhub&column=7&no-frame=true&margin-w=15&margin-h=15" alt="Qamrul-Hassan's Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qamrul-Hassan&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
 </p>
 
-## 🚀 Active Projects
+---
 
-- **[Project Name 1](https://github.com/Qamrul-Hassan/Project-Name-1)**: A brief description of your project and what it accomplishes.
-- **[Project Name 2](https://github.com/Qamrul-Hassan/Project-Name-2)**: A brief description of your project and what it accomplishes.
-- **[Project Name 3](https://github.com/Qamrul-Hassan/Project-Name-3)**: A brief description of your project and what it accomplishes.
+### 🛠️ **Development Tools**
 
-## 🔗 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/Qamrul-Hassan"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-  <a href="https://twitter.com/Qamrul-Hassan"><img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-</p>
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
