@@ -34,9 +34,18 @@ I'm a passionate beginner web developer currently exploring the world of HTML, C
 ---
 
 ### 📫 **Let's Connect**
-- [LinkedIn](https://www.linkedin.com/in/qamrul-hassan-a9b0a231/)
-- [Twitter](https://x.com/Shajal1)
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/qamrul-hassan-a9b0a231/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/Shajal1" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://www.facebook.com/qamrul.h.shajal" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+</p>
 ---
 
 ### 🏛️ **Vault of Classics**
