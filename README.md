@@ -15,11 +15,12 @@ I'm a passionate beginner web developer currently learning HTML, CSS, Bootstrap,
 - Experimenting with Tailwind for utility-first CSS design.
 - Learning JavaScript to add interactivity to web pages.
 
-## 🌱 What I'm Learning
-- Mastering the fundamentals of HTML and CSS.
-- Diving into responsive design with Bootstrap.
-- Exploring the power of Tailwind for custom styles.
-- Enhancing my JavaScript skills for dynamic content.
+## 🎓 My Learning Journey
+
+- **HTML/CSS:** Exploring the foundations of web development by creating static web pages with clean, semantic HTML and beautifully styled CSS.
+- **Bootstrap:** Building responsive and mobile-first designs with the powerful Bootstrap framework.
+- **Tailwind CSS:** Diving into utility-first CSS for rapid UI development.
+- **JavaScript:** Adding interactivity to web pages and learning the basics of DOM manipulation.
 
 ## 🤔 Goals
 - Complete my first fully responsive website.
@@ -29,6 +30,17 @@ I'm a passionate beginner web developer currently learning HTML, CSS, Bootstrap,
 ## 📫 How to Reach Me
 - [LinkedIn](#) - Let's connect and grow together!
 - [Twitter](#) - Follow my journey as I learn web development.
+
+  ## 🏛️ Vault of Classics
+
+Here are some classic resources, tools, and projects that have inspired my learning journey:
+
+- **[Mozilla Developer Network (MDN)](https://developer.mozilla.org/en-US/):** The go-to resource for web standards and documentation.
+- **[W3Schools](https://www.w3schools.com/):** A fantastic starting point for beginners with interactive examples.
+- **[Bootstrap Documentation](https://getbootstrap.com/docs/):** Detailed and comprehensive documentation for Bootstrap.
+- **[Tailwind CSS Documentation](https://tailwindcss.com/docs):** Learn how to use utility-first CSS to build beautiful designs.
+- **[JavaScript.info](https://javascript.info/):** A comprehensive guide to modern JavaScript.
+
 
 ## ⚡ Fun Fact
 When I'm not coding, you might find me exploring new tech gadgets or binge-watching the latest series!
