@@ -3,7 +3,7 @@
 
 # Hi there 👋, I'm Qamrul Hassan
 
-![Web Developer](https://via.placeholder.com/1200x300.png?text=Custom+Cover+Image) <!-- Replace this with your custom cover photo -->
+![Web Developer](bs.twimg.com/profile_banners/1200x300.png?text=Custom+Cover+Image) <!-- Replace this with your custom cover photo -->
 
 I'm a passionate beginner web developer, currently diving deep into HTML, CSS, Bootstrap, Tailwind, and JavaScript. My journey into web development is driven by a love for creating intuitive, user-friendly websites. I’m excited to share my projects and growth as I explore new tools and technologies.
 
