@@ -1,94 +1,90 @@
+
+---
+
 # Hi there 👋, I'm Qamrul Hassan
 
-![Web Developer](https://pbs.twimg.com/profile_banners/247298919/1724349046/600x200)
+![Web Developer](https://via.placeholder.com/1200x300.png?text=Custom+Cover+Image) <!-- Replace this with your custom cover photo -->
 
-I'm a passionate beginner web developer currently exploring the world of HTML, CSS, Bootstrap, Tailwind, and JavaScript. My journey into web development is driven by a love for creating intuitive, user-friendly websites. I'm excited to share my projects as I learn and grow in this field.
+I'm a passionate beginner web developer, currently diving deep into HTML, CSS, Bootstrap, Tailwind, and JavaScript. My journey into web development is driven by a love for creating intuitive, user-friendly websites. I’m excited to share my projects and growth as I explore new tools and technologies.
 
 ---
 
 ### 🛠️ **Skills**
-- HTML / CSS / Bootstrap / Tailwind / JavaScript
+
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+</div>
 
 ---
 
-### 🔭 **What I'm Working On**
-- Building responsive websites using HTML, CSS, and Bootstrap.
+### 🔭 **Current Projects**
+- Responsive websites with HTML, CSS, and Bootstrap.
 - Experimenting with Tailwind for utility-first CSS design.
-- Learning JavaScript to add interactivity to web pages.
+- JavaScript for adding dynamic, interactive elements.
 
 ---
 
-### 🎓 **Learning Journey**
-- **HTML/CSS:** Crafting clean, semantic HTML and beautiful CSS.
-- **Bootstrap:** Designing responsive, mobile-first websites with Bootstrap.
-- **Tailwind CSS:** Rapid UI development with utility-first CSS.
-- **JavaScript:** Adding dynamic features and enhancing user experience.
-
----
-
-### 🎯 **Goals**
-- Complete my first fully responsive website.
+### 🎯 **Goals for 2024**
+- Build a fully responsive website from scratch.
 - Contribute to open-source projects.
-- Keep learning new tools and frameworks in web development.
+- Master JavaScript and explore React.
 
 ---
 
 ### 📫 **Let's Connect**
 
-<p align="center">
+<div align="center">
   <a href="https://www.linkedin.com/in/qamrul-hassan-a9b0a231/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://x.com/Shajal1" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
   <a href="https://www.facebook.com/qamrul.h.shajal" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-</p>
+</div>
+
 ---
 
 ### 🏛️ **Vault of Classics**
 
-Here are some classic resources that have inspired my learning journey:
+Here are some classic resources that have guided my learning journey:
 
-- **[MDN Web Docs](https://developer.mozilla.org/en-US/):** The go-to resource for web standards.
-- **[W3Schools](https://www.w3schools.com/):** A fantastic starting point with interactive examples.
-- **[Bootstrap Documentation](https://getbootstrap.com/docs/):** Comprehensive documentation for Bootstrap.
-- **[Tailwind CSS Documentation](https://tailwindcss.com/docs):** Learn utility-first CSS with Tailwind.
-- **[JavaScript.info](https://javascript.info/):** A comprehensive guide to modern JavaScript.
-
----
-
-### ⚡ **Fun Fact**
-When I'm not coding, you'll find me exploring new tech gadgets or binge-watching the latest series!
+- **[MDN Web Docs](https://developer.mozilla.org/en-US/):** The definitive resource for web standards.
+- **[W3Schools](https://www.w3schools.com/):** A great starting point for beginners with interactive examples.
+- **[Bootstrap Docs](https://getbootstrap.com/docs/):** Detailed documentation for Bootstrap.
+- **[Tailwind CSS Docs](https://tailwindcss.com/docs):** Master utility-first CSS with Tailwind.
+- **[JavaScript.info](https://javascript.info/):** The ultimate guide to modern JavaScript.
 
 ---
 
 ### 🏆 **GitHub Trophies**
 
-
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Qamrul-Hassan&theme=radical" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Qamrul-Hassan&theme=onedark&row=1&column=7" alt="GitHub Trophies" />
   </a>
 </p>
-
 
 ---
 
 ### 📊 **GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Qamrul-Hassan&show_icons=true&theme=radical&count_private=true" alt="Qamrul-Hassan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Qamrul-Hassan&show_icons=true&theme=onedark&count_private=true" alt="Qamrul-Hassan's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Qamrul-Hassan&theme=radical" alt="Qamrul-Hassan's GitHub Streaks" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Qamrul-Hassan&theme=onedark" alt="Qamrul-Hassan's GitHub Streaks" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qamrul-Hassan&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qamrul-Hassan&layout=compact&theme=onedark&langs_count=8" alt="Top Languages" />
 </p>
 
 ---
@@ -96,9 +92,12 @@ When I'm not coding, you'll find me exploring new tech gadgets or binge-watching
 ### 🛠️ **Development Tools**
 
 <p align="center">
-  <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='50' height='50' style="margin-right: 50px;"></a>
-  <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='50' height='50' style="margin-right: 50px;"></a>
-  <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='50' height='50' style="margin-right: 50px;"></a>
-  <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='50' height='50' style="margin-right: 50px;"></a>
+  <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='50' height='50' style="margin-right: 20px;"></a>
+  <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='50' height='50' style="margin-right: 20px;"></a>
+  <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='50' height='50' style="margin-right: 20px;"></a>
+  <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='50' height='50' style="margin-right: 20px;"></a>
 </p>
 
+---
+
+To further enhance the profile, consider a custom cover photo that reflects your personality and interests in web development. Also, keep your profile picture professional and approachable.
