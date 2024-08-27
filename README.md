@@ -100,6 +100,6 @@ Here are some classic resources that have guided my learning journey:
   <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='50' height='50' style="margin-right: 20px;"></a>
 </p>
 
----
+-----------------------------------------------
 
-To further enhance the profile, consider a custom cover photo that reflects your personality and interests in web development. Also, keep your profile picture professional and approachable.
+
