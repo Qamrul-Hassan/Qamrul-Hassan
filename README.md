@@ -100,7 +100,11 @@ Here are some classic resources that have guided my learning journey:
 
 ---
 
-© 2024 Qamrul Hassan
+<div align="center">
+  <p style="font-size: 14px; color: #555;">
+    <span style="color: #3498db; font-weight: bold;">© 2024 Qamrul Hassan</span> - All Rights Reserved
+  </p>
+</div>
 
 ---------------------------
 
