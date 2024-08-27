@@ -102,9 +102,10 @@ Here are some classic resources that have guided my learning journey:
 
 <div align="center">
   <p style="font-size: 16px; color: #333; font-family: Arial, sans-serif;">
+    <img src="https://via.placeholder.com/30x30.png?text=©" alt="Colorful Logo" style="margin-right: 8px; vertical-align: middle;" />
     <span style="color: #e74c3c; font-weight: bold;">© 2024</span>
-    <span style="color: #3498db; font-weight: bold;">Qamrul Hassan</span>
-    <span style="color: #2ecc71;">- All Rights Reserved</span>
+    <span style="color: #3498db; font-weight: bold;"> Qamrul Hassan</span>
+    <span style="color: #2ecc71;"> - All Rights Reserved</span>
   </p>
 </div>
 
