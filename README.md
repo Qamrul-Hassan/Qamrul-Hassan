@@ -2,7 +2,7 @@
 
 # Hi there 👋, I'm Qamrul Hassan Shajal
 
-![Web Developer](https://pbs.twimg.com/profile_banners/247298919/1724867405/1500x500)
+![Web Developer](https://pbs.twimg.com/profile_banners/247298919/1724868085/1500x500)
 
 ---
 I'm a passionate beginner web developer diving deep into HTML, CSS, Bootstrap, Tailwind, and JavaScript. My journey into web development is driven by a love for creating intuitive, user-friendly websites. I’m excited to share my projects and growth as I explore new tools and technologies.
