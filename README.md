@@ -1,6 +1,6 @@
 
 
-# Hi there 👋, I'm Qamrul Hassan
+# Hi there 👋, I'm Qamrul Hassan Shajal
 
 ![Web Developer](https://pbs.twimg.com/profile_banners/247298919/1724839678/1500x500)
 
