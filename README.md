@@ -5,7 +5,7 @@
 ![Web Developer](https://pbs.twimg.com/profile_banners/247298919/1724911889/1500x500)
 
 ---
-I'm a passionate beginner web developer diving deep into HTML, CSS, Bootstrap, Tailwind, and JavaScript. My journey into web development is driven by a love for creating intuitive, user-friendly websites. I’m excited to share my projects and growth as I explore new tools and technologies...
+I'm a passionate beginner web developer diving deep into HTML, CSS, Bootstrap, Tailwind, and JavaScript. My journey into web development is driven by a love for creating intuitive, user-friendly websites. I’m excited to share my projects and growth as I explore new tools and technologies..
 
 ---
 
