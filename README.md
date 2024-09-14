@@ -101,6 +101,12 @@ Here are some classic resources that have guided my learning journey:
 
 ---
 
+### 🐱 **GitHub Octocat Animation**
+
+<div align="center">
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" alt="GitHub Octocat Animation" width="300" height="300" />
+</div>
+
 <div align="center">
   <p style="font-size: 16px; color: #333; font-family: Arial, sans-serif;">
     <img src="https://via.placeholder.com/30x30.png?text=©" alt="Colorful Logo" style="margin-right: 8px; vertical-align: middle;" />
