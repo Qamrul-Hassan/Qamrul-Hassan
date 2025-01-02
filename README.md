@@ -1,139 +1,111 @@
-// pages/profile.js
-import React from "react";
+ Hi there 👋, I'm Qamrul Hassan Shajal
 
-const Profile = () => {
-  return (
-    <div>
-      <header>
-        <h1>Hi there 👋, I'm Qamrul Hassan Shajal</h1>
-        <img
-          src="https://pbs.twimg.com/profile_banners/247298919/1725556021/1500x500"
-          alt="Web Developer"
-        />
-      </header>
+![Web Developer](https://pbs.twimg.com/profile_banners/247298919/1725556021/1500x500)
 
-      <section>
-        <p>
-          I'm a passionate beginner web developer diving deep into HTML, CSS, Bootstrap, Tailwind, JavaScript, and React.
-          My journey into web development is driven by a love for creating intuitive, user-friendly websites. I’m excited to share my projects and growth as I explore new tools and technologies...
-        </p>
-      </section>
+---
 
-      <section>
-        <h3>🛠️ Skills</h3>
-        <div>
-          <img
-            src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
-            alt="HTML5"
-          />
-          <img
-            src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"
-            alt="CSS3"
-          />
-          <img
-            src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"
-            alt="JavaScript"
-          />
-          <img
-            src="https://img.shields.io/badge/Bootstrap-563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"
-            alt="Bootstrap"
-          />
-          <img
-            src="https://img.shields.io/badge/TailwindCSS-38B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"
-            alt="TailwindCSS"
-          />
-          <img
-            src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"
-            alt="React"
-          />
-        </div>
-      </section>
+I'm a passionate beginner web developer diving deep into HTML, CSS, Bootstrap, Tailwind, JavaScript, and React. My journey into web development is driven by a love for creating intuitive, user-friendly websites. I’m excited to share my projects and growth as I explore new tools and technologies...
 
-      <section>
-        <h3>🔭 Current Projects</h3>
-        <ul>
-          <li>Building responsive websites with HTML, CSS, and Bootstrap.</li>
-          <li>Experimenting with Tailwind for utility-first CSS design.</li>
-          <li>Using JavaScript and React to add dynamic, interactive elements.</li>
-        </ul>
-      </section>
+---
 
-      <section>
-        <h3>🎯 Goals for 2024</h3>
-        <ul>
-          <li>Build a fully responsive website from scratch.</li>
-          <li>Contribute to open-source projects.</li>
-          <li>Master JavaScript and dive deeper into React.</li>
-        </ul>
-      </section>
+### 🛠️ **Skills**
 
-      <section>
-        <h3>📫 Let's Connect</h3>
-        <div>
-          <a href="https://www.linkedin.com/in/qamrul-hassan-a9b0a231/" target="_blank" rel="noopener noreferrer">
-            <img
-              src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-              alt="LinkedIn"
-            />
-          </a>
-          <a href="https://x.com/Shajal1" target="_blank" rel="noopener noreferrer">
-            <img
-              src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
-              alt="Twitter"
-            />
-          </a>
-          <a href="https://www.facebook.com/qamrul.h.shajal" target="_blank" rel="noopener noreferrer">
-            <img
-              src="https://img.shields.io/badge/Facebook-1877F2.svg?style=for-the-badge&logo=facebook&logoColor=white"
-              alt="Facebook"
-            />
-          </a>
-        </div>
-      </section>
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+</div>
 
-      <section>
-        <h3>🏆 GitHub Trophies</h3>
-        <a href="https://github.com/ryo-ma/github-profile-trophy">
-          <img
-            src="https://github-profile-trophy.vercel.app/?username=Qamrul-Hassan&theme=onedark&row=1&column=7"
-            alt="GitHub Trophies"
-          />
-        </a>
-      </section>
+---
 
-      <section>
-        <h3>📊 GitHub Stats</h3>
-        <img
-          src="https://github-readme-stats.vercel.app/api?username=Qamrul-Hassan&show_icons=true&theme=onedark&count_private=true"
-          alt="GitHub Stats"
-        />
-        <img
-          src="https://github-readme-streak-stats.herokuapp.com/?user=Qamrul-Hassan&theme=onedark"
-          alt="GitHub Streaks"
-        />
-        <img
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qamrul-Hassan&layout=compact&theme=onedark&langs_count=8"
-          alt="Top Languages"
-        />
-      </section>
+### 🔭 **Current Projects**
+- Building responsive websites with HTML, CSS, and Bootstrap. [View Projects](#)
+- Experimenting with Tailwind for utility-first CSS design. [View Projects](#)
+- Using JavaScript and React to add dynamic, interactive elements. [View Projects](#)
 
-      <section>
-        <h3>🛠️ Development Tools</h3>
-        <a href="https://archiveprogram.github.com/">
-          <img
-            src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif"
-            alt="GitHub Archive"
-            width="50"
-            height="50"
-          />
-        </a>
-      </section>
+---
 
-      <footer>
-        <p>© 2024 Qamrul Hassan - All Rights Reserved</p>
-      </footer>
-    </div>
-  );
-};
+### 🎯 **Goals for 2024**
+- Build a fully responsive website from scratch.
+- Contribute to open-source projects.
+- Master JavaScript and dive deeper into React.
 
-export default Profile;
+---
+
+### 📫 **Let's Connect**
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/qamrul-hassan-a9b0a231/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/Shajal1" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://www.facebook.com/qamrul.h.shajal" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+</div>
+
+---
+
+### 🏛️ **Vault of Classics**
+
+Here are some classic resources that have guided my learning journey:
+
+- **[MDN Web Docs](https://developer.mozilla.org/en-US/):** The definitive resource for web standards.
+- **[W3Schools](https://www.w3schools.com/):** A great starting point for beginners with interactive examples.
+- **[Bootstrap Docs](https://getbootstrap.com/docs/):** Detailed documentation for Bootstrap.
+- **[Tailwind CSS Docs](https://tailwindcss.com/docs):** Master utility-first CSS with Tailwind.
+- **[JavaScript.info](https://javascript.info/):** The ultimate guide to modern JavaScript.
+- **[React Docs](https://reactjs.org/docs/getting-started.html):** The official React documentation for building user interfaces.
+
+---
+
+### 🏆 **GitHub Trophies**
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Qamrul-Hassan&theme=onedark&row=1&column=7" alt="GitHub Trophies" />
+  </a>
+</p>
+
+---
+
+### 📊 **GitHub Stats**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Qamrul-Hassan&show_icons=true&theme=onedark&count_private=true" alt="Qamrul-Hassan's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Qamrul-Hassan&theme=onedark" alt="Qamrul-Hassan's GitHub Streaks" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qamrul-Hassan&layout=compact&theme=onedark&langs_count=8" alt="Top Languages" />
+</p>
+
+---
+
+### 🛠️ **Development Tools**
+
+<p align="center">
+  <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='50' height='50' style="margin-right: 20px;"></a>
+  <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='50' height='50' style="margin-right: 20px;"></a>
+  <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='50' height='50' style="margin-right: 20px;"></a>
+  <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='50' height='50' style="margin-right: 20px;"></a>
+</p>
+
+---
+
+<div align="center">
+  <p style="font-size: 16px; color: #333; font-family: Arial, sans-serif;">
+    <img src="https://via.placeholder.com/30x30.png?text=©" alt="Colorful Logo" style="margin-right: 8px; vertical-align: middle;" />
+    <span style="color: #e74c3c; font-weight: bold;">© 2024</span>
+    <span style="color: #3498db; font-weight: bold;"> Qamrul Hassan</span>
+    <span style="color: #2ecc71;"> - All Rights Reserved</span>
+  </p>
+</div>
