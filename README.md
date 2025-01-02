@@ -1,10 +1,10 @@
- Hi there 👋, I'm Qamrul Hassan Shajal
+Hi there 👋, I'm Qamrul Hassan Shajal
 
 ![Web Developer](https://pbs.twimg.com/profile_banners/247298919/1725556021/1500x500)
 
 ---
 
-I'm a passionate beginner web developer diving deep into HTML, CSS, Bootstrap, Tailwind, JavaScript, and React. My journey into web development is driven by a love for creating intuitive, user-friendly websites. I’m excited to share my projects and growth as I explore new tools and technologies...
+I'm a passionate beginner web developer diving deep into HTML, CSS, Bootstrap, Tailwind, JavaScript, React, and Next.js. My journey into web development is driven by a love for creating intuitive, user-friendly websites. I’m excited to share my projects and growth as I explore new tools and technologies...
 
 ---
 
@@ -17,6 +17,7 @@ I'm a passionate beginner web developer diving deep into HTML, CSS, Bootstrap, T
   <img src="https://img.shields.io/badge/Bootstrap-563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
   <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
 </div>
 
 ---
@@ -25,13 +26,14 @@ I'm a passionate beginner web developer diving deep into HTML, CSS, Bootstrap, T
 - Building responsive websites with HTML, CSS, and Bootstrap. [View Projects](#)
 - Experimenting with Tailwind for utility-first CSS design. [View Projects](#)
 - Using JavaScript and React to add dynamic, interactive elements. [View Projects](#)
+- Exploring Next.js for SSR (Server-Side Rendering) and static website generation. [View Projects](#)
 
 ---
 
 ### 🎯 **Goals for 2024**
 - Build a fully responsive website from scratch.
 - Contribute to open-source projects.
-- Master JavaScript and dive deeper into React.
+- Master JavaScript and dive deeper into React and Next.js.
 
 ---
 
@@ -61,6 +63,7 @@ Here are some classic resources that have guided my learning journey:
 - **[Tailwind CSS Docs](https://tailwindcss.com/docs):** Master utility-first CSS with Tailwind.
 - **[JavaScript.info](https://javascript.info/):** The ultimate guide to modern JavaScript.
 - **[React Docs](https://reactjs.org/docs/getting-started.html):** The official React documentation for building user interfaces.
+- **[Next.js Docs](https://nextjs.org/docs):** The official documentation for learning and using Next.js.
 
 ---
 
