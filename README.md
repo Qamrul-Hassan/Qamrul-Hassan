@@ -4,7 +4,7 @@ Hi there 👋, I'm Qamrul Hassan Shajal
 
 ---
 
-I'm a passionate beginner web developer diving deep into HTML, CSS, Bootstrap, Tailwind, JavaScript, React, and Next.js. My journey into web development is driven by a love for creating intuitive, user-friendly websites. I’m excited to share my projects and growth as I explore new tools and technologies...
+I'm a passionate beginner Front end web developer diving deep into HTML, CSS, Bootstrap, Tailwind, JavaScript, React, and Next.js. My journey into web development is driven by a love for creating intuitive, user-friendly websites. I’m excited to share my projects and growth as I explore new tools and technologies...
 
 ---
 
