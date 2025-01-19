@@ -30,7 +30,7 @@ I'm a passionate beginner Front end web developer diving deep into HTML, CSS, Bo
 
 ---
 
-### 🎯 **Goals for 2024**
+### 🎯 **Goals for 2024-2025**
 - Build a fully responsive website from scratch.
 - Contribute to open-source projects.
 - Master JavaScript and dive deeper into React and Next.js.
