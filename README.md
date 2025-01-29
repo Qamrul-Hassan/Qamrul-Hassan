@@ -40,7 +40,7 @@ I'm a passionate beginner Front end web developer diving deep into HTML, CSS, Bo
 ### 📫 **Let's Connect**
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/md-qamrul-hassan-303853347/" target="_blank">
+  <a href="https://www.linkedin.com/in/md-qamrul-hassan-303853347" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://x.com/Shajal1" target="_blank">
