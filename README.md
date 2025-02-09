@@ -1,5 +1,3 @@
-Certainly! Here's an updated and more modern version of your profile, incorporating the latest trends and best practices in web development and personal branding:
-
 ---
 
 ### Hi there 👋, I'm Qamrul Hassan Shajal
@@ -39,9 +37,9 @@ I'm a passionate **Frontend Web Developer** specializing in modern web technolog
 
 ### 🚀 **Featured Projects**
 
-- **[Portfolio Website](https://qamrulhassan.com)**: A modern portfolio built with **Next.js** and **Tailwind CSS**.
-- **[E-commerce Platform](https://example.com)**: A fully responsive e-commerce site using **React** and **Redux**.
-- **[Blog Platform](https://example.com)**: A blog platform with **Next.js** and **Markdown** support.
+- **[Portfolio Website](https://qhs-portfolio.vercel.app/)**: A modern portfolio built with **React.js** and **Tailwind CSS**.
+- **[E-commerce Platform](https://hektto.vercel.app/)**: A fully responsive e-commerce site using **React.js** and **Redux**.
+- **[Portfolio Website](https://oreby-ecommerce-five.vercel.app/)**: A modern portfolio built with **React.js** and **Tailwind CSS**.
 
 ---
 
