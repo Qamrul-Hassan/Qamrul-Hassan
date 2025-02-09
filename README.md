@@ -1,39 +1,56 @@
-Hi there 👋, I'm Qamrul Hassan Shajal
+Certainly! Here's an updated and more modern version of your profile, incorporating the latest trends and best practices in web development and personal branding:
+
+---
+
+### Hi there 👋, I'm Qamrul Hassan Shajal
 
 ![Web Developer](https://pbs.twimg.com/profile_banners/247298919/1725556021/1500x500)
 
 ---
 
-I'm a passionate beginner Front end web developer diving deep into HTML, CSS, Bootstrap, Tailwind, JavaScript, React, and Next.js. My journey into web development is driven by a love for creating intuitive, user-friendly websites. I’m excited to share my projects and growth as I explore new tools and technologies...
+I'm a passionate **Frontend Web Developer** specializing in modern web technologies. With expertise in **React**, **Next.js**, and **Tailwind CSS**, I create fast, responsive, and user-friendly web applications. I’m constantly learning and exploring new tools to stay ahead in the ever-evolving world of web development.
 
 ---
 
-### 🛠️ **Skills**
+### 🛠️ **Tech Stack**
 
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" />
 </div>
 
 ---
 
-### 🔭 **Current Projects**
-- Building responsive websites with HTML, CSS, and Bootstrap. [View Projects](#)
-- Experimenting with Tailwind for utility-first CSS design. [View Projects](#)
-- Using JavaScript and React to add dynamic, interactive elements. [View Projects](#)
-- Exploring Next.js for SSR (Server-Side Rendering) and static website generation. [View Projects](#)
+### 🔭 **Current Focus**
+
+- **Building Scalable Web Applications**: Leveraging **Next.js** for server-side rendering and static site generation.
+- **UI/UX Design**: Creating responsive and accessible interfaces with **Tailwind CSS** and **Framer Motion**.
+- **Learning Backend Development**: Exploring **Node.js** and **Express** to build full-stack applications.
 
 ---
 
-### 🎯 **Goals for 2024-2025**
-- Build a fully responsive website from scratch.
-- Contribute to open-source projects.
-- Master JavaScript and dive deeper into React and Next.js.
+### 🚀 **Featured Projects**
+
+- **[Portfolio Website](https://qamrulhassan.com)**: A modern portfolio built with **Next.js** and **Tailwind CSS**.
+- **[E-commerce Platform](https://example.com)**: A fully responsive e-commerce site using **React** and **Redux**.
+- **[Blog Platform](https://example.com)**: A blog platform with **Next.js** and **Markdown** support.
+
+---
+
+### 🌱 **Learning Goals for 2024**
+
+- Master **TypeScript** for type-safe JavaScript development.
+- Dive deeper into **React** advanced concepts like hooks and context API.
+- Explore **GraphQL** for efficient data fetching.
+- Contribute to **open-source projects** and collaborate with the developer community.
 
 ---
 
@@ -46,24 +63,33 @@ I'm a passionate beginner Front end web developer diving deep into HTML, CSS, Bo
   <a href="https://x.com/Shajal1" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="https://www.facebook.com/qamrul.h.shajal" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  <a href="https://github.com/Qamrul-Hassan" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:qamrulhassan@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
 
 ---
 
-### 🏛️ **Vault of Classics**
+### 📚 **Learning Resources**
 
-Here are some classic resources that have guided my learning journey:
+- **[MDN Web Docs](https://developer.mozilla.org/en-US/)**: The ultimate resource for web standards.
+- **[Next.js Documentation](https://nextjs.org/docs)**: Comprehensive guide for Next.js.
+- **[Tailwind CSS Docs](https://tailwindcss.com/docs)**: Master utility-first CSS.
+- **[React Documentation](https://reactjs.org/docs/getting-started.html)**: Official React docs.
+- **[TypeScript Handbook](https://www.typescriptlang.org/docs/)**: Learn TypeScript from the ground up.
 
-- **[MDN Web Docs](https://developer.mozilla.org/en-US/):** The definitive resource for web standards.
-- **[W3Schools](https://www.w3schools.com/):** A great starting point for beginners with interactive examples.
-- **[Bootstrap Docs](https://getbootstrap.com/docs/):** Detailed documentation for Bootstrap.
-- **[Tailwind CSS Docs](https://tailwindcss.com/docs):** Master utility-first CSS with Tailwind.
-- **[JavaScript.info](https://javascript.info/):** The ultimate guide to modern JavaScript.
-- **[React Docs](https://reactjs.org/docs/getting-started.html):** The official React documentation for building user interfaces.
-- **[Next.js Docs](https://nextjs.org/docs):** The official documentation for learning and using Next.js.
+---
+
+### 📊 **GitHub Stats**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Qamrul-Hassan&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Qamrul-Hassan&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qamrul-Hassan&layout=compact&theme=dark&langs_count=8" alt="Top Languages" />
+</p>
 
 ---
 
@@ -77,29 +103,13 @@ Here are some classic resources that have guided my learning journey:
 
 ---
 
-### 📊 **GitHub Stats**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Qamrul-Hassan&show_icons=true&theme=onedark&count_private=true" alt="Qamrul-Hassan's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Qamrul-Hassan&theme=onedark" alt="Qamrul-Hassan's GitHub Streaks" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qamrul-Hassan&layout=compact&theme=onedark&langs_count=8" alt="Top Languages" />
-</p>
-
----
-
 ### 🛠️ **Development Tools**
 
 <p align="center">
-  <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='50' height='50' style="margin-right: 20px;"></a>
-  <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='50' height='50' style="margin-right: 20px;"></a>
-  <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='50' height='50' style="margin-right: 20px;"></a>
-  <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='50' height='50' style="margin-right: 20px;"></a>
+  <a href='https://code.visualstudio.com/'><img src='https://img.shields.io/badge/VSCode-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white' alt='VSCode' /></a>
+  <a href='https://git-scm.com/'><img src='https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white' alt='Git' /></a>
+  <a href='https://www.npmjs.com/'><img src='https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white' alt='npm' /></a>
+  <a href='https://yarnpkg.com/'><img src='https://img.shields.io/badge/Yarn-2C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white' alt='Yarn' /></a>
 </p>
 
 ---
@@ -112,3 +122,5 @@ Here are some classic resources that have guided my learning journey:
     <span style="color: #2ecc71;"> - All Rights Reserved</span>
   </p>
 </div>
+
+---
