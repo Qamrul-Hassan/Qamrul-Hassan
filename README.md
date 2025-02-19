@@ -38,9 +38,9 @@ I'm a passionate **Frontend Web Developer** specializing in modern web technolog
 ### 🚀 **Featured Projects**
 
 - **[Portfolio Website](https://qhs-portfolio.vercel.app/)**: A modern portfolio built with **React.js** and **Tailwind CSS**.
-- **[E-commerce Platform](https://hektto.vercel.app/)**: A fully responsive e-commerce site using **React.js** **Redux** and **Firebase**.
+- **[E-commerce Platform](https://hektto.vercel.app/)**: A fully responsive e-commerce site using **React.js**, **Redux**, and **Firebase**.
 - **[E-commerce Platform](https://oreby-ecommerce-five.vercel.app/)**: A modern portfolio built with **React.js** and **Tailwind CSS**.
-- **[Photography Website](https://qhs-photography-page.vercel.app/)**: A modern photography built with **React.js** **Next.js** and **Tailwind CSS**.
+- **[Photography Website](https://qhs-photography-page.vercel.app/)**: A modern photography built with **React.js**, **Next.js**, and **Tailwind CSS**.
 
 ---
 
@@ -108,10 +108,8 @@ I'm a passionate **Frontend Web Developer** specializing in modern web technolog
   <a href='https://code.visualstudio.com/'><img src='https://img.shields.io/badge/VSCode-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white' alt='VSCode' /></a>
   <a href='https://git-scm.com/'><img src='https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white' alt='Git' /></a>
   <a href='https://www.npmjs.com/'><img src='https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white' alt='npm' /></a>
-<a href='https://yarnpkg.com/'><img src='images/yarn-badge.svg' alt='Yarn' /></a>
-
-
-
+  <a href='https://yarnpkg.com/'><img src='https://img.shields.io/badge/Yarn-2C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white' alt='Yarn' /></a>
+</p>
 
 ---
 
