@@ -1,9 +1,8 @@
 ---
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=36&duration=6000&pause=500&color=3d85c6&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Qamrul+Hassan+%F0%9F%91%8B;Front-End+Developer+%7C+React+Enthusiast+%7C+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=36&duration=6000&pause=500&color=3d85c6&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Qamrul+Hassan+%F0%9F%91%8B;Front-End+Developer;React+Enthusiast;Problem+Solver" alt="Typing SVG" />
 </h1>
-
 
 
 ![Web Developer](https://pbs.twimg.com/profile_banners/247298919/1725556021/1500x500)
