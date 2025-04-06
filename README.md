@@ -1,7 +1,7 @@
 ---
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=36&duration=6000&pause=500&color=3d85c6&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Qamrul+Hassan+%F0%9F%91%8B;Web+Developer;React+ Next+Enthusiast;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=36&duration=6000&pause=500&color=3d85c6&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Qamrul+Hassan+%F0%9F%91%8B;Web+Developer;React+&+Next+Enthusiast;Problem+Solver" alt="Typing SVG" />
 </h1>
 
 
