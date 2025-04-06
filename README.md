@@ -85,14 +85,17 @@ I'm a passionate **Frontend Web Developer** specializing in modern web technolog
 
 ---
 
-### 📊 **GitHub Stats**
+<h3 align="left">### 📊 GitHub Stats/h3>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Qamrul-Hassan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Qamrul-Hassanlocale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Qamrul-Hassan&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Qamrul-Hassan&theme=dark" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qamrul-Hassan&layout=compact&theme=dark&langs_count=8" alt="Top Languages" />
+  <a href="https://github.com/Qamrul-Hassan">
+  <img src="https://streak-stats.demolab.com?user=Qamrul-Hassan&theme=dark" alt="GitHub Streak" />
+</a>
 </p>
-
 ---
 
 ### 🏆 **GitHub Trophies**
