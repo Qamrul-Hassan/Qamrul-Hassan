@@ -96,6 +96,8 @@ I'm a passionate **Frontend Web Developer** specializing in modern web technolog
   <img src="https://streak-stats.demolab.com?user=Qamrul-Hassan&theme=dark" alt="GitHub Streak" />
 </a>
 </p>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Qamrul-Hassan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
 ---
 
 ### 🏆 **GitHub Trophies**
