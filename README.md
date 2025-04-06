@@ -99,7 +99,7 @@ I'm a passionate **Frontend Web Developer** specializing in modern web technolog
 
 ---
 
-### 🏆 **GitHub Trophies**
+### 🏆 **My GitHub Trophies**
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
