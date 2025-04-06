@@ -85,7 +85,7 @@ I'm a passionate **Frontend Web Developer** specializing in modern web technolog
 
 ---
 
-<h3 align="left">📊 GitHub Stats </h3>
+<h3 align="left">📊 My Stats </h3>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Qamrul-Hassan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
@@ -97,7 +97,7 @@ I'm a passionate **Frontend Web Developer** specializing in modern web technolog
 </a>
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Qamrul-Hassan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+
 ---
 
 ### 🏆 **GitHub Trophies**
