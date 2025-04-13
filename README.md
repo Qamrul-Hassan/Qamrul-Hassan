@@ -1,9 +1,9 @@
----
+
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Qamrul-Hassan.Qamrul-Hassan&title=Profile%20Views&color=3d85c6&style=flat-square" alt="Profile Views" />
 </p>
 
--
+
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=36&duration=6000&pause=500&color=3d85c6&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Qamrul+Hassan+%F0%9F%91%8B;Web+Developer;React+And+Next+Enthusiast;Problem+Solver" alt="Typing SVG" />
 </h1>
