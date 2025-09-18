@@ -88,7 +88,7 @@ I'm a passionate **Frontend Web Developer** specializing in modern web technolog
 - **[TypeScript Handbook](https://www.typescriptlang.org/docs/)**: Learn TypeScript from the ground up.
 
 ---
-
+<h3 align="left">📊 My Stats </h3>
 <p align="center">
   <!-- Profile Summary Cards -->
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Qamrul-Hassan&theme=dark" alt="Summary Stats" height="150"/>
@@ -99,6 +99,7 @@ I'm a passionate **Frontend Web Developer** specializing in modern web technolog
   <!-- Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Qamrul-Hassan&theme=react-dark&hide_border=true" alt="Activity Graph" />
 </p>
+
 ---
 
 ### 🏆 **My GitHub Trophies**
