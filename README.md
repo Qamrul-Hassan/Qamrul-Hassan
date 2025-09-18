@@ -89,18 +89,16 @@ I'm a passionate **Frontend Web Developer** specializing in modern web technolog
 
 ---
 
-<h3 align="left">📊 My Stats </h3>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Qamrul-Hassan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Qamrul-Hassan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
 <p align="center">
-  <a href="https://github.com/Qamrul-Hassan">
-  <img src="https://streak-stats.demolab.com?user=Qamrul-Hassan&theme=dark" alt="GitHub Streak" />
-</a>
+  <!-- Profile Summary Cards -->
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Qamrul-Hassan&theme=dark" alt="Summary Stats" height="150"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Qamrul-Hassan&theme=dark" alt="Languages" height="150"/>
 </p>
 
+<p align="center">
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Qamrul-Hassan&theme=react-dark&hide_border=true" alt="Activity Graph" />
+</p>
 ---
 
 ### 🏆 **My GitHub Trophies**
