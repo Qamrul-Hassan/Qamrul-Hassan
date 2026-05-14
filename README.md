@@ -44,10 +44,10 @@ I'm a passionate **Frontend Web Developer** specializing in modern web technolog
 
 ### 🚀 **Featured Projects**
 
-- **[Portfolio Website](https://qhs-portfolio.vercel.app/)**: A modern portfolio built with **React.js** and **Tailwind CSS**.
+- **[Portfolio Website](qhs-portfolio-next16.vercel.app/)**: A modern portfolio built with **React.js** and **Tailwind CSS**.
 - **[E-commerce Platform](https://hektto.vercel.app/)**: A fully responsive e-commerce site using **React.js**, **Redux**, and **Firebase**.
 - **[E-commerce Platform](https://oreby-ecommerce-five.vercel.app/)**: A modern portfolio built with **React.js** and **Tailwind CSS**.
-- **[Photography Website](https://qhs-photography-page.vercel.app/)**: A modern photography built with **React.js**, **Next.js**, and **Tailwind CSS**.
+- **[CostNest Smart Free Calculator](costnest.site)**: A modern photography built with ****Next.js**, and **Tailwind CSS**.
 
 ---
 
