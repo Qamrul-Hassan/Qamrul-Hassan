@@ -1,135 +1,61 @@
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Qamrul-Hassan.Qamrul-Hassan&title=Profile%20Views&color=3d85c6&style=flat-square" alt="Profile Views" />
-</p>
-
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=36&duration=6000&pause=500&color=3d85c6&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Qamrul+Hassan+%F0%9F%91%8B;Web+Developer;React+And+Next+Enthusiast;Problem+Solver" alt="Typing SVG" />
-</h1>
-
-
-![Web Developer](https://pbs.twimg.com/profile_banners/247298919/1725556021/1500x500)
-
----
-
-I'm a passionate **Frontend Web Developer** specializing in modern web technologies. With expertise in **React**, **Next.js**, and **Tailwind CSS**, I create fast, responsive, and user-friendly web applications. I’m constantly learning and exploring new tools to stay ahead in the ever-evolving world of web development.
-
----
-
-### 🛠️ **Tech Stack**
-
 <div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
-  <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/VSCode-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Qamrul-Hassan.Qamrul-Hassan&title=Profile%20Views&color=185FA5&style=flat-square" alt="Profile Views" />
 </div>
-
----
-
-### 🔭 **Current Focus**
-
-- **Building Scalable Web Applications**: Leveraging **Next.js** for server-side rendering and static site generation.
-- **UI/UX Design**: Creating responsive and accessible interfaces with **Tailwind CSS** and **Framer Motion**.
-- **Learning Backend Development**: Exploring **Node.js** and **Express** to build full-stack applications.
-
----
-
-### 🚀 **Featured Projects**
-
-- **[Portfolio Website](qhs-portfolio-next16.vercel.app/)**: A modern portfolio built with **React.js** and **Tailwind CSS**.
-- **[E-commerce Platform](https://hektto.vercel.app/)**: A fully responsive e-commerce site using **React.js**, **Redux**, and **Firebase**.
-- **[E-commerce Platform](https://oreby-ecommerce-five.vercel.app/)**: A modern portfolio built with **React.js** and **Tailwind CSS**.
-- **[CostNest Smart Free Calculator](https://costnest.site/)**: A modern photography built with ****Next.js**, and **Tailwind CSS**.
-
----
-
-### 🌱 **Learning Goals for 2024**
-
-- Master **TypeScript** for type-safe JavaScript development.
-- Dive deeper into **React** advanced concepts like hooks and context API.
-- Explore **GraphQL** for efficient data fetching.
-- Contribute to **open-source projects** and collaborate with the developer community.
-
----
-
-### 📫 **Let's Connect**
-
+<br/>
 <div align="center">
-  <a href="https://www.linkedin.com/in/md-qamrul-hassan-303853347" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/Shajal1" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://github.com/Qamrul-Hassan" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:qamrulhassan@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=28&duration=4000&pause=800&color=185FA5&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Qamrul+Hassan+%F0%9F%91%8B;Frontend+Developer;React+%26+Next.js+Enthusiast;Building+things+for+Bangladesh" alt="Typing SVG" />
 </div>
-
+<br/>
 ---
-
-### 📚 **Learning Resources**
-
-- **[MDN Web Docs](https://developer.mozilla.org/en-US/)**: The ultimate resource for web standards.
-- **[Next.js Documentation](https://nextjs.org/docs)**: Comprehensive guide for Next.js.
-- **[Tailwind CSS Docs](https://tailwindcss.com/docs)**: Master utility-first CSS.
-- **[React Documentation](https://reactjs.org/docs/getting-started.html)**: Official React docs.
-- **[TypeScript Handbook](https://www.typescriptlang.org/docs/)**: Learn TypeScript from the ground up.
-
+About me
+I'm a Frontend Web Developer from Bangladesh, specialising in building fast, accessible, and user-friendly web applications with React, Next.js, and Tailwind CSS.
+Currently building CostNest — a free calculator hub for Bangladesh with 44+ tools covering electricity bills, income tax, EMI, land area, construction cost, and more. No signup. No ads. Just useful tools.
 ---
-<h3 align="left">📊 My Stats </h3>
-
-<p align="center">
-  <!-- Profile Summary Cards -->
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Qamrul-Hassan&theme=dark" alt="Summary Stats" height="150"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Qamrul-Hassan&theme=dark" alt="Languages" height="150"/>
-</p>
-
-<p align="center">
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Qamrul-Hassan&theme=react-dark&hide_border=true" alt="Activity Graph" />
-</p>
-
+🛠️ Tech stack
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ---
-
-### 🏆 **My GitHub Trophies**
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Qamrul-Hassan&theme=onedark&row=1&column=7" alt="GitHub Trophies" />
-  </a>
-</p>
-
+🚀 Featured projects
+Project	Description	Stack	Link
+CostNest	44+ free calculators for Bangladesh — electricity, tax, EMI, construction & more	Next.js, Tailwind CSS	costnest.site
+Hektto	Fully responsive e-commerce platform with cart, auth, and product management	React, Redux, Firebase	hektto.vercel.app
+Oreby	Modern e-commerce UI with clean product listings and smooth UX	React, Tailwind CSS	oreby-ecommerce-five.vercel.app
+Portfolio	Personal portfolio showcasing projects and skills	React, Tailwind CSS	qhs-portfolio-next16.vercel.app
 ---
-
-### 🛠️ **Development Tools**
-
-<p align="center">
-  <a href='https://code.visualstudio.com/'><img src='https://img.shields.io/badge/VSCode-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white' alt='VSCode' /></a>
-  <a href='https://git-scm.com/'><img src='https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white' alt='Git' /></a>
-  <a href='https://www.npmjs.com/'><img src='https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white' alt='npm' /></a>
-  <a href='https://yarnpkg.com/'><img src='https://img.shields.io/badge/Yarn-2C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white' alt='Yarn' /></a>
-</p>
-
+🔭 Currently focused on
+Growing CostNest — adding new tools and improving Google rankings
+Mastering TypeScript for scalable, type-safe applications
+Deepening knowledge of React advanced patterns — hooks, context, performance
+Exploring backend development with Node.js and Express
 ---
-
+📊 GitHub stats
 <div align="center">
-  <p style="font-size: 16px; color: #333; font-family: Arial, sans-serif;">
-    <span style="color: #e74c3c; font-weight: bold;">© 2024</span>
-    <span style="color: #3498db; font-weight: bold;"> Qamrul Hassan</span>
-    <span style="color: #2ecc71;"> - All Rights Reserved</span>
-  </p>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Qamrul-Hassan&theme=transparent" height="150" alt="Stats"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Qamrul-Hassan&theme=transparent" height="150" alt="Languages"/>
 </div>
-
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Qamrul-Hassan&theme=minimal&hide_border=true&area=true" alt="Activity Graph" />
+</div>
 ---
+🏆 GitHub trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Qamrul-Hassan&theme=flat&no-frame=true&row=1&column=7&margin-w=8" alt="Trophies" />
+</div>
+---
+📫 Let's connect
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)
+![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Website](https://img.shields.io/badge/CostNest-185FA5?style=flat-square&logo=google-chrome&logoColor=white)
+---
+<div align="center">
+  <sub>© 2026 Qamrul Hassan · All rights reserved</sub>
+</div>
