@@ -41,7 +41,7 @@ Currently building **[CostNest](https://costnest.site)** — a free calculator h
 
 | &nbsp; | Project | Description | Stack |
 |---|---|---|---|
-| 🧮 | **[CostNest](https://costnest.site)** | 44+ free calculators for Bangladesh — electricity, tax, EMI, construction & more | Next.js · Tailwind CSS |
+| 🧮 | **[CostNest](https://costnest.site)** | 44+ free calculators for Bangladesh & Global — electricity, tax, EMI, construction & more | Next.js · Tailwind CSS |
 | 🛒 | **[Hektto](https://hektto.vercel.app)** | Fully responsive e-commerce platform with cart, auth & product management | React · Redux · Firebase |
 | 🏪 | **[Oreby](https://oreby-ecommerce-five.vercel.app)** | Modern e-commerce UI with clean product listings and smooth UX | React · Tailwind CSS |
 | 🎨 | **[Portfolio](https://qhs-portfolio-next16.vercel.app)** | Personal developer portfolio showcasing projects and skills | React · Tailwind CSS |
