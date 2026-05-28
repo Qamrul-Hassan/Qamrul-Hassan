@@ -69,8 +69,8 @@ Currently building **[CostNest](https://costnest.site)** — a free calculator h
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Qamrul-Hassan&theme=github-compact&hide_border=true&area=true
-"alt="Activity Graph" />
+<img src=" https://github-readme-activity-graph.vercel.app/graph?username=Qamrul-Hassan&theme=github-compact&hide_border=true&area=true"
+alt="Activity Graph" />
 
 </div>
 
