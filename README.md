@@ -63,13 +63,14 @@ Currently building **[CostNest](https://costnest.site)** — a free calculator h
 
 <div align="center">
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Qamrul-Hassan&theme=transparent" height="160" alt="Stats"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Qamrul-Hassan&theme=dark" height="160" alt="Stats"/>
 &nbsp;&nbsp;
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Qamrul-Hassan&theme=transparent" height="160" alt="Languages"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Qamrul-Hassan&theme=dark" height="160" alt="Languages"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Qamrul-Hassan&theme=minimal&hide_border=true&area=true" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Qamrul-Hassan&theme=github-compact&hide_border=true&area=true
+"alt="Activity Graph" />
 
 </div>
 
