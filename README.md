@@ -63,24 +63,13 @@ Currently building **[CostNest](https://costnest.site)** — a free calculator h
 
 <div align="center">
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Qamrul-Hassan&theme=dark" height="160" alt="Stats"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Qamrul-Hassan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 &nbsp;&nbsp;
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Qamrul-Hassan&theme=dark" height="160" alt="Languages"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qamrul-Hassan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 <br/><br/>
 
-<img src=" https://github-readme-activity-graph.vercel.app/graph?username=Qamrul-Hassan&theme=github-compact&hide_border=true&area=true"
-alt="Activity Graph" />
-
-</div>
-
----
-
-## 🏆 GitHub trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Qamrul-Hassan&theme=flat&no-frame=true&row=1&column=7&margin-w=8" alt="Trophies" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Qamrul-Hassan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
