@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=36&duration=6000&pause=500&color=3d85c6&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Qamrul+Hassan+%F0%9F%91%8B;Frontend+Web+Developer;React+%26+Next.js+Specialist;Building+things+for+Bangladesh+&+Global+%F0%9F%87%A7%F0%9F%87%A9" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=36&duration=6000&pause=500&color=3d85c6&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Qamrul+Hassan+%F0%9F%91%8B;Frontend+Web+Developer;React+%26+Next.js+Specialist;Building+for+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9+%26+Global+%F0%9F%8C%8D:alt="Typing SVG" />
 </h1>
 
 ![Web Developer](https://pbs.twimg.com/profile_banners/247298919/1725556021/1500x500)
