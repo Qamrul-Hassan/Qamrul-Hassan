@@ -14,7 +14,7 @@
 
 I'm a passionate **Frontend Web Developer** from **Bangladesh 🇧🇩**, specialising in building fast, responsive, and user-friendly web applications with **React**, **Next.js**, and **Tailwind CSS**.
 
-Currently building **[CostNest](https://costnest.site)** — a free calculator hub for Bangladesh with **44+ tools** covering electricity bills, income tax, EMI, land area, construction cost, and more. No signup. No ads. Just useful tools. 🧮
+Currently building **[CostNest](https://costnest.site)** — a free calculator hub for Bangladesh & global with **44+ tools** covering electricity bills, income tax, EMI, land area, construction cost, and more. No signup. No ads. Just useful tools. 🧮
 
 🌐 **[costnest.site](https://costnest.site)**
 
